@@ -1,2 +1,3 @@
 ## bob_robot
-creation of a little Arduino robot for the course of desing_and_robotics at Politecnico of Milan
+Arduino code for the Bob robot, a small prototype of a social robot capable of expressing simple emotions combining movements, speeches, lights, rotatations of its head, pattern of gazes. <br> 
+Project for the Desing_and_Robotics course at Politecnico of Milan.
